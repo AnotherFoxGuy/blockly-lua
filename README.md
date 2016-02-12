@@ -1,8 +1,8 @@
-# Blockly
+# Blockly Lua
+Blockly Lua allows you to program ComputerCraft turtles in Blockly for use within Minecraft.
+Google's Blockly is a web-based, visual programming editor. Users can drag
+blocks together to build programs.
 
-Google's Blockly is a web-based, visual programming editor.  Users can drag
-blocks together to build programs.  All code is free and open source.
+**The orginal project page is https://github.com/espertus/blockly-lua**
 
-**The project page is https://developers.google.com/blockly/**
 
-![](https://developers.google.com/blockly/sample.png)

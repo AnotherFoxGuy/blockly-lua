@@ -22,6 +22,10 @@
  * @fileoverview Helper functions for generating JavaScript for blocks.
  * @author fraser@google.com (Neil Fraser)
  */
+ 
+ 
+/* global Blockly*/
+ 
 'use strict';
 
 goog.provide('Blockly.JavaScript');
